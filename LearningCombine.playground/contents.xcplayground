@@ -5,5 +5,7 @@
         <page name='Subscription'/>
         <page name='Event'/>
         <page name='Operator'/>
+        <page name='CommunicationPattern'/>
+        <page name='UpdateUI'/>
     </pages>
 </playground>
