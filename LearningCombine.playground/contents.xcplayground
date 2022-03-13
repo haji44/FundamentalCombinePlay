@@ -6,6 +6,7 @@
         <page name='Event'/>
         <page name='Operator'/>
         <page name='CommunicationPattern'/>
-        <page name='UpdateUI'/>
+        <page name='UpdateUIFundamental'/>
+        <page name='UpateUIAdvance'/>
     </pages>
 </playground>
